@@ -1,6 +1,3 @@
-
-Sure, here's a revised version of your GitHub profile README tailored for potential employers:
-
 Hi there, I'm Krishna Pathak 👋
 I'm a passionate learner diving into the world of web development, with a focus on mastering React.js.
 
